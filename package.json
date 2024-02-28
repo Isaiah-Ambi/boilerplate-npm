@@ -13,5 +13,6 @@
 	},
 	"author": "Isaiah Ambi",
 	"description": "A project that does something awesome",
-	"keywords":["freecodecamp","start here"]
+	"keywords":["freecodecamp","start here"],
+	"license": "MIT"
 }
